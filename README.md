@@ -1,4 +1,5 @@
 # belajar-kolaborasi
 
-ini mau belajar squash changes
-terus harus buat minimal 3 commit
+ini mau belajar squash changes <br>
+terus harus buat minimal 3 commit <br>
+udah deh 3
